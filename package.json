@@ -15,7 +15,7 @@
     "@once-ui-system/core": "latest",
     "classnames": "^2.5.1",
     "cookie": "^1.0.2",
-    "gray-matter": "^4.0.3",
+    "gray-matter": "^2.0.1",
     "lint-staged": "^16.1.5",
     "next": "^16.0.10",
     "next-mdx-remote": "^6.0.0",
